@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+- Introduction
+- School
+- Hobby
+  - Hobby1
+  - Hobby2
