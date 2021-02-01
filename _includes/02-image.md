@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Animated image of Domics](https://i.ytimg.com/vi/VfuBpd4q4_A/maxresdefault.jpg)
